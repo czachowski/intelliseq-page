@@ -10019,13 +10019,6 @@ button.sub {
   background-position: center;
   cursor: pointer; }
 
-.turn-on-overlay {
-  position: absolute;
-  margin: -450px 45vw;
-  cursor: pointer;
-  color: #fff;
-  font-size: 40px; }
-
 #screen-5 {
   background-image: url("../img/how-we-work.png");
   background-size: 80%;
